@@ -1,0 +1,15 @@
+
+
+{
+  "name": "JTM",
+  "main": "server.js",
+  "dependencies" : {
+    "express" : "latest", 			
+    "ejs" : "latest", 				
+    "mongoose" : "latest", 			
+    "passport" : "latest", 		
+    "passport-google-oauth" : "latest",
+    "connect-flash" : "latest",
+    "nodemon" : "latest"
+  }
+}
